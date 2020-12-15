@@ -1,3 +1,5 @@
+#search bot using wikipedia API and google translator , speech recognition
+
 import wikipedia as wk
 import speech_recognition as sr
 from gtts import gTTS
